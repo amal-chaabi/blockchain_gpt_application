@@ -1,0 +1,9 @@
+{
+    "/backend/": {
+      "target": "http://backend:3005",
+      "secure": false,
+      "changeOrigin": false,
+      "logLevel": "info"
+    }
+  }
+  
